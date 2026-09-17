@@ -1,0 +1,6 @@
+{
+  "name": "Speed 7 System Optimizer",
+  "description": "An interactive full-featured utility for system telemetry analysis, memory optimization, background process management, and active disk cleanup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
